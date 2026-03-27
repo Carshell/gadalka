@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+python-dotenv
+langchain
+langgraph
+langchain-openai
+typing-extensions
